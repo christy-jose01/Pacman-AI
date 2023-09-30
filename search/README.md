@@ -28,3 +28,13 @@ Uniform-cost search: Run the following:
 AStar search: Run the following:
 
 ```python3 -m pacai.bin.pacman --layout bigMaze --pacman SearchAgent --agent-args fn=pacai.student.search.aStarSearch,heuristic=pacai.core.search.heuristic.manhattan```
+
+Generating Heuristic: Run the following:
+
+```python3 -m pacai.bin.pacman --layout mediumCorners --pacman AStarCornersAgent```
+
+Corners Problem: Run the following:
+
+```python3 -m pacai.bin.pacman --layout tinyCorners --pacman SearchAgent --agent-args fn=pacai.student.search.breadthFirstSearch,prob=pacai.student.searchAgents.CornersProblem```
+
+```python3 -m pacai.bin.pacman --layout mediumCorners --pacman SearchAgent --agent-args fn=pacai.student.search.breadthFirstSearch,prob=pacai.student.searchAgents.CornersProblem```
