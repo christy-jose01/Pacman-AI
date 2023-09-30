@@ -3,7 +3,7 @@
 - searchAgents.py: generates the corners heuristic and solves the corners problem.
 
 # Running Tests:
-**In order to run these tests, download the pacai repo, open the student folder, and replace the search.py and the searchAgents.py files with mine **
+***In order to run these tests, download the pacai repo, open the student folder, and replace the search.py and the searchAgents.py files with mine ***
 DFS: Run the following:
 
 ```python3 -m pacai.bin.pacman --layout tinyMaze --pacman SearchAgent --agent-args fn=pacai.student.search.depthFirstSearch```
