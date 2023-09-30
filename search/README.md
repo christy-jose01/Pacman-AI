@@ -4,5 +4,4 @@
 
 # Running Tests:
 DFS:Run the following
-
 ```python3 -m pacai.bin.pacman --layout tinyMaze --pacman SearchAgent --agent-args fn=pacai.student.search.depthFirstSearch```
