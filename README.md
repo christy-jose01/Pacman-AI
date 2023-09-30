@@ -1,6 +1,6 @@
 # Pacman-AI
 This uses the UC Berkeley AI codebase for their Introduction to Artificial Intelligence class. These projects utilize search algorithms for artificial intelligence agents and reinforcement learning.
 
-Search algorithms:
-- search.py: contains BFS, DFS, uniform-cost search, and AStar search algorithms.
-- searchAgents.py: generates the corners heuristic and solves the corners problem.
+Each folder has their own tests. In order to run those tests, you need to do the following:
+- Download the pacai folder.
+- Open the student folder in pacai and replace their files with mine.
