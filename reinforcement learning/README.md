@@ -4,7 +4,7 @@
 - analysis.py: This file finds the different values to manimpulate the behavior of the Pacman.
 
 # Running Tests:
-IMPORTANT: In order to run these tests, download the pacai repo, open the student folder, and replace the valueIteration.py, qlearningAgents.py, and the analysis.py files with mine
+IMPORTANT: In order to run these tests, download the pacai repo, open the student folder, and replace the valueIteration.py, qlearningAgents.py, and the analysis.py files with mine.
 
 Iterations: Run the following:
 
